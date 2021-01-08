@@ -23,7 +23,7 @@
     - Classical/Instrumental
 - Cinema 
 - BodyBuilding/Fitness 
-- Photography 
+- Photography / Video
 
 #### You can always count on me when...
 
