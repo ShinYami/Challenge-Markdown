@@ -15,15 +15,15 @@
 
 ### Hobbies 
  
-- Video Games :video_game:
-- Music :musical_note:
+- Video Games 
+- Music 
     - Metal
     - Rock
     - Techno
     - Classical/Instrumental
-- Cinema :movie_camera:
-- BodyBuilding/Fitness :muscle:
-- Photography :camera:  
+- Cinema 
+- BodyBuilding/Fitness 
+- Photography 
 
 #### You can always count on me when...
 
