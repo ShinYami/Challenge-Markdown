@@ -11,7 +11,7 @@
 | Birthday     |  23 August    | 
 | Fav. Color   |    Red        |   
 | Fav. Food    | Lasagna       |
-|Pinneapple on pizza |    <ul><li>- [ ] Yes</li><li>- [x] No</li></ul>    |
+|Pinneapple on pizza |    [ ] Yes<br/>[x] No    |
 
 ### Hobbies 
  
