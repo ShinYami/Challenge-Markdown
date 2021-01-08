@@ -37,4 +37,4 @@ Well, maybe not funny but it can proves how i can be smart sometimes. Before, we
 
 Curiosity is a sign of intelligence.
 
-<< [Previous]() || Loris || [Next](https://patgit-design.github.io/Challenge-Markdown/) >>
+<< [Previous](https://nataliacherman08.github.io/Challenge1-Markdown/) || Loris || [Next](https://patgit-design.github.io/Challenge-Markdown/) >>
