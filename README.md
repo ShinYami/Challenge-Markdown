@@ -2,7 +2,7 @@
 
 *It's not me who explain things wrong, it's others people who are dumb*
 
-![random pic](https://ugc-gaming.net/data/avatars/l/22/22315.jpg?1528305750)
+![random pic](picture.jpg)
 
 ## Quiet and focus, only waiting for challenges
 
