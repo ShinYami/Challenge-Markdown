@@ -1,6 +1,3 @@
-# Challenge-Markdown
-Learning Challenge
-
 # Loris Conti
 
 *It's not me who explain things wrong, it's others people who are dumb*
